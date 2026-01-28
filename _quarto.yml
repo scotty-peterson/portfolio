@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: ""
-  favicon: images/prototyping-favicon.png
+  title: "William Scott Peterson Jr."
+  favicon: images/favicon.svg
   navbar:
     background: primary
     left:
@@ -15,17 +15,9 @@ website:
       - text: Projects
         menu:
           - href: projects/project-1.qmd
-            text: Name of my first app
-          #- href: projects/project-2.qmd
-          #  text: Business Case Presentation
-          #- href: projects/project-3.qmd
-          #  text: Project 3
-          #- href: projects/project-4.qmd
-          #  text: Project 4
-          #- href: projects/project-5.qmd
-          #  text: Project 5
-          #- href: projects/project-6.qmd
-          #  text: Project 6
+            text: Keep Up - Relationship Tracker
+      - href: problems.qmd
+        text: Problems I'm Exploring
 
 format:
   html:

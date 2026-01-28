@@ -1,24 +1,29 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
+title: "Keep Up - Relationship Tracker"
+date: "2025-01-28"
 categories: [GitHub, Vercel, Claude Code]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+Keep Up is a simple but powerful app designed to help you stay connected with the people who matter most. In our busy lives, it's easy to let important relationships fade - not because we don't care, but because we forget to reach out.
 
 The primary purpose of this app is to:
 
-- ....
-- ....
+- **Track relationships**: Add the people you want to stay in touch with and set how often you'd like to reach out
+- **Never forget commitments**: Log promises and commitments you make to people so you can follow through
+- **Visual reminders**: Instantly see who you're overdue to contact with color-coded status indicators
+
+## The Problem
+
+I built Keep Up to solve a problem I personally experience: I make commitments to people but often fail to follow through. I also find myself losing touch with good friends simply because I get busy with other life things. It's not that I don't value these relationships - I just need a system to help me be more intentional about nurturing them.
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="https://keepup-app.vercel.app/"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
@@ -27,7 +32,7 @@ The primary purpose of this app is to:
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/scotty-peterson/keepup-app"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -35,20 +40,42 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
+<iframe src="https://keepup-app.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack**: Vanilla HTML, CSS, JavaScript
 
-Deployment: GitHub Pages + Vercel
+**Data Storage**: Browser localStorage (your data stays private on your device)
 
-Tools Used:
--   Claude Code
+**Deployment**: Vercel
 
-## Product Requirements Document
+**Tools Used**:
 
-Paste in the PRD that you submitted to Claude Code
+- Claude Code for AI-assisted development
+- Git and GitHub for version control
+- Vercel for deployment
+
+## Key Features
+
+### People Tracking
+Add friends, family, colleagues, or anyone you want to stay connected with. Set a frequency for how often you'd like to reach out (weekly, bi-weekly, monthly, or quarterly). The app calculates when you're overdue and shows you at a glance who needs attention.
+
+### Commitment Tracking
+When you tell someone "I'll send you that article" or "Let's grab coffee next week," you can log it as a commitment. The app tracks due dates and helps you keep your word.
+
+### Privacy-First Design
+All data is stored locally in your browser using localStorage. Nothing is sent to a server, so your relationship data stays completely private.
+
+## What I Learned
+
+Building this app taught me several valuable lessons:
+
+1. **Start with the problem**: I built something I actually needed, which made every decision clearer
+2. **Keep it simple**: A focused solution beats a feature-bloated one
+3. **AI-assisted development**: Claude Code dramatically accelerated my ability to go from idea to working product
+4. **Ship and iterate**: Getting something live quickly creates momentum for improvement
+

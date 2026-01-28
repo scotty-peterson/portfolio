@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.svg" alt="William Scott Peterson Jr." class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>William Scott Peterson Jr.</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/scottypeterson" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/scotty-peterson" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,47 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm a product-minded individual passionate about building technology that genuinely improves people's lives. I believe the best products come from deeply understanding human problems and crafting elegant solutions that feel natural to use.
+
+My journey into product management started with a simple observation: the tools we use every day often make things harder, not easier. I became fascinated with why some products feel intuitive while others feel like a struggle. This curiosity drives me to explore the intersection of technology, design, and human psychology.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Brigham Young University** - Studying Business Strategy and Product Management
+- **Relevant Coursework**: Product Management, Business Strategy, Data Analytics, User Research
+- **Focus Areas**: Building products from 0 to 1, customer discovery, agile development
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Product Development Projects
+*2024 - Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
-
-#### Another Position - Company Name
-*Dates*
-
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Building and shipping real products to solve everyday problems
+- Learning modern development workflows using AI-assisted coding tools
+- Practicing customer discovery and iterative product development
+- Deploying applications using industry-standard tools like Vercel and GitHub
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
 
-**Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Product prototyping and MVP development
+- AI-assisted development (Claude Code, GitHub Copilot)
+- Web technologies (HTML, CSS, JavaScript)
+- Version control and deployment (Git, GitHub, Vercel)
+
+**Product Skills**
+
+- Customer discovery and problem validation
+- User research and feedback synthesis
+- Agile methodology and iterative development
+- Clear written and verbal communication
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+
+Outside of building products, I'm deeply interested in understanding what makes relationships work. Whether it's personal connections or professional collaborations, I believe strong relationships are the foundation of everything meaningful. I also enjoy exploring how technology can help us be more intentional about the things that truly matter.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking opportunities to work on products that make a real difference in people's lives. I'm particularly interested in roles where I can combine customer empathy with technical understanding to ship products that users love. Whether it's at an early-stage startup or within an innovation team at a larger company, I want to be where meaningful problems are being solved.
+

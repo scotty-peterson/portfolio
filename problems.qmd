@@ -1,0 +1,64 @@
+---
+title: "Problems I'm Exploring"
+---
+
+As a product thinker, I'm constantly observing the friction points in everyday life. These are five problems I personally experience that I believe are worth solving. Each represents an opportunity to create something meaningful.
+
+---
+
+## 1. Losing Touch with People I Care About
+
+**The Problem**: Despite having the best intentions, I regularly lose touch with friends and family members I genuinely care about. It's not that I don't value these relationships - it's that life gets busy, and without a system, weeks turn into months turn into years of silence.
+
+**Why This Matters to Me**: Relationships are the foundation of a meaningful life. When I think about my happiest moments, they almost always involve the people I love. Yet I consistently fail to prioritize reaching out, and I watch valuable connections slowly fade. The cost isn't just social - it's emotional. There's a quiet guilt that comes from knowing you've let someone down by simply forgetting about them.
+
+**What a Solution Might Look Like**: A simple system that helps me be intentional about staying connected - not through automation or impersonal messages, but by gently reminding me when it's time to reach out to someone who matters.
+
+---
+
+## 2. Breaking Commitments Without Realizing It
+
+**The Problem**: I tell people "I'll send you that link" or "Let's definitely get lunch next week" with complete sincerity in the moment. Then life happens, I forget, and I've broken a small promise. These micro-betrayals add up and erode trust over time.
+
+**Why This Matters to Me**: Your word is your reputation. Every time I fail to follow through - even on small things - I'm telling the other person that they weren't important enough to remember. I want to be someone people can count on, but my current system (which is basically just hoping I remember) isn't working.
+
+**What a Solution Might Look Like**: A lightweight way to capture commitments in the moment and surface them before they become overdue. Not a full task manager - just a simple promise tracker.
+
+---
+
+## 3. Information Overload Leading to Shallow Understanding
+
+**The Problem**: I consume enormous amounts of content - articles, podcasts, videos, books - but retain very little of it. I read something interesting, feel momentarily enlightened, and then completely forget it two days later. All that time invested, minimal lasting value extracted.
+
+**Why This Matters to Me**: Learning should compound over time. Instead, I feel like I'm on a treadmill - constantly consuming but never actually building knowledge. The most successful people I admire seem to have deep, interconnected understanding of their domains. I have a collection of half-remembered factoids.
+
+**What a Solution Might Look Like**: A system that helps me actively process what I consume - perhaps through forced reflection, spaced repetition, or connections to existing knowledge. Something that transforms passive consumption into active learning.
+
+---
+
+## 4. Difficulty Maintaining Healthy Habits During Disruptions
+
+**The Problem**: I can maintain good habits (exercise, healthy eating, meditation) when life is routine. But the moment there's a disruption - travel, a busy work period, a family event - my habits completely collapse. Then I have to rebuild from scratch, which gets harder each time.
+
+**Why This Matters to Me**: Health and wellbeing are foundational. Without energy and clarity, everything else suffers. Yet my habits are fragile, dependent on perfect conditions that rarely exist in real life. I need a way to maintain momentum even when circumstances aren't ideal.
+
+**What a Solution Might Look Like**: A habit system that acknowledges imperfection and helps you maintain "minimum viable habits" during disrupted periods, rather than the all-or-nothing approach most apps take.
+
+---
+
+## 5. Spending Money Without Alignment to Values
+
+**The Problem**: At the end of each month, I look at my spending and wonder where it all went. Individually, each purchase seemed reasonable. Collectively, they don't reflect what I actually value. I'm not broke, but I'm not intentional either.
+
+**Why This Matters to Me**: Money is stored time and energy. How I spend it should reflect what matters most to me. Yet the friction of tracking and categorizing spending is so high that I avoid it entirely. I know roughly what I value, but I have no idea if my spending reflects those values.
+
+**What a Solution Might Look Like**: A way to see spending through the lens of personal values rather than traditional budget categories. Not "you spent $400 on food" but "here's how much you invested in experiences with friends vs. solo convenience purchases."
+
+---
+
+## Why I Share These Problems
+
+I believe the best products come from founders who are solving their own problems. These aren't abstract market opportunities - they're genuine friction points in my life. By sharing them publicly, I'm inviting conversation, collaboration, and accountability to actually work on solutions.
+
+If any of these resonate with you, I'd love to hear your perspective.
+
