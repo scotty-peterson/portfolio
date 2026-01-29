@@ -1,0 +1,4 @@
+*.pkg
+*.deb
+*.dmg
+.git

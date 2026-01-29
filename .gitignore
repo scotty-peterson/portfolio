@@ -69,3 +69,11 @@ $RECYCLE.BIN/
 # Temporary files
 *.tmp
 *.temp
+
+# Installers
+*.pkg
+*.deb
+*.dmg
+
+# Vercel
+.vercel

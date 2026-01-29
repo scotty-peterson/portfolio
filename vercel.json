@@ -1,4 +1,4 @@
 {
-  "buildCommand": "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.deb && dpkg -x quarto-linux-amd64.deb . && ./opt/quarto/bin/quarto render",
+  "buildCommand": "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.tar.gz && mkdir -p /tmp/quarto && tar -xzf quarto-linux-amd64.tar.gz -C /tmp/quarto && /tmp/quarto/quarto-*/bin/quarto render .",
   "outputDirectory": "_site"
 }
