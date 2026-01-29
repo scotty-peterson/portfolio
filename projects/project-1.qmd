@@ -23,7 +23,7 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://keepup-app.vercel.app/"
+     href="https://keepapp-m4gnllr1u-scottys-projects-a2fb3d15.vercel.app/"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
@@ -32,7 +32,7 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/scotty-peterson/keepup-app"
+     href="https://github.com/scotty-peterson/keepapp"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -40,7 +40,7 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
   </a>
 </div>
 
-<iframe src="https://keepup-app.vercel.app/"
+<iframe src="https://keepapp-m4gnllr1u-scottys-projects-a2fb3d15.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
