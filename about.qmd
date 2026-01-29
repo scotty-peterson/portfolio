@@ -17,49 +17,70 @@ title: "About Me"
 
 :::
 
-## Background
+## Education
 
-I'm a product-minded individual passionate about building technology that genuinely improves people's lives. I believe the best products come from deeply understanding human problems and crafting elegant solutions that feel natural to use.
+**Brigham Young University** — Bachelor of Science in Strategic Management, Marriott School of Business
+*Expected Graduation: April 2028*
+GPA: 3.97 (Cumulative) / 3.93 (Business School)
 
-My journey into product management started with a simple observation: the tools we use every day often make things harder, not easier. I became fascinated with why some products feel intuitive while others feel like a struggle. This curiosity drives me to explore the intersection of technology, design, and human psychology.
+---
 
-### Education
+## Experience
 
-- **Brigham Young University** - Studying Business Strategy and Product Management
-- **Relevant Coursework**: Product Management, Business Strategy, Data Analytics, User Research
-- **Focus Areas**: Building products from 0 to 1, customer discovery, agile development
+### AI Consultant — TechForce
+*San Diego, CA | January 2026 – Present*
 
-### Experience
+- In charge of bringing in new clients to the firm
+- Meet with business owners and prescribe AI solutions
 
-#### Product Development Projects
-*2024 - Present*
+### Sales Representative — Ambia Solar
+*Pittsburgh, PA & Provo, UT | April 2025 – August 2025*
 
-- Building and shipping real products to solve everyday problems
-- Learning modern development workflows using AI-assisted coding tools
-- Practicing customer discovery and iterative product development
-- Deploying applications using industry-standard tools like Vercel and GitHub
+- Specialized in lead generation and prospecting
+- Generated over $550,000 in revenue for Ambia in one summer
+- Handpicked as one of four first-year reps to progress towards closing deals for summer 2026
 
-### Skills & Interests
+### Project Manager Intern — Heirscribe
+*BYU On-Campus Internship | Provo, UT | January 2025 – April 2025*
 
-**Technical Skills**
+- Conducted industry analyses to assess market attractiveness and competitive landscape
+- Created slide decks promoting business strategy to the founder of Heirscribe
+- Interviewed successful genealogical companies to identify success principles in the industry
+- Established a connection with the head of genealogy efforts for The Church of Jesus Christ of Latter-Day Saints
 
-- Product prototyping and MVP development
-- AI-assisted development (Claude Code, GitHub Copilot)
-- Web technologies (HTML, CSS, JavaScript)
-- Version control and deployment (Git, GitHub, Vercel)
+---
 
-**Product Skills**
+## Skills
 
-- Customer discovery and problem validation
-- User research and feedback synthesis
-- Agile methodology and iterative development
-- Clear written and verbal communication
+- Verbal and non-verbal communication
+- Organizational leadership
+- Critical thinking
+- Connecting with others
 
-**Interests**
+---
 
-Outside of building products, I'm deeply interested in understanding what makes relationships work. Whether it's personal connections or professional collaborations, I believe strong relationships are the foundation of everything meaningful. I also enjoy exploring how technology can help us be more intentional about the things that truly matter.
+## Service & Leadership
 
-### What's Next
+### Volunteer Representative — The Church of Jesus Christ of Latter-Day Saints
+*Tucson, Arizona | August 2022 – July 2024*
 
-I'm seeking opportunities to work on products that make a real difference in people's lives. I'm particularly interested in roles where I can combine customer empathy with technical understanding to ship products that users love. Whether it's at an early-stage startup or within an innovation team at a larger company, I want to be where meaningful problems are being solved.
+- Collaborated directly with the President to oversee the well-being and logistics of 200 full-time volunteers
+- Presented in large seminars for all volunteers each month teaching on various topics including leadership and local outreach
+- Found and taught individuals the gospel of Jesus Christ, helping others let Christ make significant changes in their lives
+- Served in nearly any capacity requested—weeded yards, constructed gravel driveways, volunteered at community events
+
+### Elders Quorum Counselor
+*September 2025 – Present*
+
+- Conduct interviews for quorum members to ensure well-being and support their service efforts
+- Assist Elders Quorum President in any way, usually through counsel of quorum outreach
+
+---
+
+## Awards, Activities & Interests
+
+- Member of the BYU Corporate Strategy Association (Since October 2024)
+- Recipient of the Eagle Scout Award (November 2019)
+- Four-year High School Varsity Tennis Player
+- Passionate in creative event planning, specializing in unique dates
 
