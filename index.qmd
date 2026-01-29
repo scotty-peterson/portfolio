@@ -4,7 +4,7 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.svg" alt="William Scott Peterson Jr." class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="William Scott Peterson Jr." class="rounded-circle mb-3" width="160">
 
 <h1>William Scott Peterson Jr.</h1>
 
