@@ -21,8 +21,8 @@ title: "Welcome to My Product Management Portfolio"
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Keep Up - Relationship Tracker](projects/project-1.qmd)
-A simple app that helps you stay connected with the people who matter by tracking commitments and reminding you to reach out.
+### [Dead Evening - The Evening Concierge](projects/project-1.qmd)
+A simple app to help you plan evenings and make more memories.
 
 :::
 
