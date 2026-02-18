@@ -1,38 +1,39 @@
 ---
-title: "Keep Up - Relationship Tracker"
+title: "The Evening Concierge"
 date: "2025-01-28"
 categories: [GitHub, Vercel, Claude Code]
 ---
 
 ## Overview
 
-Keep Up is a simple but powerful app designed to help you stay connected with the people who matter most. In our busy lives, it's easy to let important relationships fade - not because we don't care, but because we forget to reach out.
+The Evening Concierge is an app designed to help couples break out of the default "late-night movie" trap and find vetted, time-appropriate activities that fit their evening. Instead of defaulting to screen time that cuts into sleep and hurts next-day performance, the app surfaces better options based on time of night, energy level, and personal preferences.
 
 The primary purpose of this app is to:
 
-- **Track relationships**: Add the people you want to stay in touch with and set how often you'd like to reach out
-- **Never forget commitments**: Log promises and commitments you make to people so you can follow through
-- **Visual reminders**: Instantly see who you're overdue to contact with color-coded status indicators
+- **Solve the dead evening problem**: Give couples a curated alternative to defaulting to movies when they don't know what else to do
+- **Time-aware recommendations**: Suggest activities that are actually appropriate for the time of night
+- **Protect sleep and performance**: Help couples end their evenings intentionally rather than accidentally staying up too late
 
 ## The Problem
 
-I built Keep Up to solve a problem I personally experience: I make commitments to people but often fail to follow through. I also find myself losing touch with good friends simply because I get busy with other life things. It's not that I don't value these relationships - I just need a system to help me be more intentional about nurturing them.
+I built The Evening Concierge to solve a problem I personally experience: my partner and I frequently default to watching a movie late at night — not because it's what we actually want to do, but because we can't think of anything better in the moment. This leads to staying up later than intended, worse sleep, and reduced performance the next day.
+
+The problem isn't a lack of desire to do something meaningful — it's the **decision fatigue and lack of structure** that makes the default option win every time.
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://keepapp-m4gnllr1u-scottys-projects-a2fb3d15.vercel.app/"
+     href="https://strat490r-product.vercel.app/"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
     Open App in New Tab
   </a>
-
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/scotty-peterson/keepapp"
+     href="https://github.com/scotty-peterson/strat490r-product"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -40,7 +41,7 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
   </a>
 </div>
 
-<iframe src="https://keepapp-m4gnllr1u-scottys-projects-a2fb3d15.vercel.app/"
+<iframe src="https://strat490r-product.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
@@ -48,8 +49,6 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
 ## Technical Details
 
 **Framework/Stack**: Vanilla HTML, CSS, JavaScript
-
-**Data Storage**: Browser localStorage (your data stays private on your device)
 
 **Deployment**: Vercel
 
@@ -61,21 +60,20 @@ I built Keep Up to solve a problem I personally experience: I make commitments t
 
 ## Key Features
 
-### People Tracking
-Add friends, family, colleagues, or anyone you want to stay connected with. Set a frequency for how often you'd like to reach out (weekly, bi-weekly, monthly, or quarterly). The app calculates when you're overdue and shows you at a glance who needs attention.
+### Time-Aware Activity Suggestions
+The app recommends activities based on what time it actually is — so you're not getting suggestions for a hike at 10pm. Recommendations are filtered to be realistic and appropriate for the hour.
 
-### Commitment Tracking
-When you tell someone "I'll send you that article" or "Let's grab coffee next week," you can log it as a commitment. The app tracks due dates and helps you keep your word.
+### Curated for Couples
+Rather than a generic activity finder, The Evening Concierge is built around the couples use case — activities you can actually do together, at home or nearby, without a lot of planning overhead.
 
-### Privacy-First Design
-All data is stored locally in your browser using localStorage. Nothing is sent to a server, so your relationship data stays completely private.
+### Breaks the Default Loop
+The core value is simply giving couples a better option in the moment when decision fatigue kicks in — removing the friction that makes "just watch something" feel like the only choice.
 
 ## What I Learned
 
 Building this app taught me several valuable lessons:
 
-1. **Start with the problem**: I built something I actually needed, which made every decision clearer
-2. **Keep it simple**: A focused solution beats a feature-bloated one
+1. **Validate the problem first**: I conducted customer discovery interviews to confirm this was a real, recurring pain point before building
+2. **Personal problems make the best starting points**: I built something I actually needed, which made the problem crisp and the solution intuitive
 3. **AI-assisted development**: Claude Code dramatically accelerated my ability to go from idea to working product
 4. **Ship and iterate**: Getting something live quickly creates momentum for improvement
-
