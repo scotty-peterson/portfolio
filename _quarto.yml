@@ -15,7 +15,7 @@ website:
       - text: Projects
         menu:
           - href: projects/project-1.qmd
-            text: Keep Up - Relationship Tracker
+            text: Dead Evening - The Evening Concierge
       - href: problems.qmd
         text: Problems I'm Exploring
 
